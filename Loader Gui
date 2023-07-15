@@ -107,7 +107,7 @@ OsirisHub["12"] = Instance.new("LocalScript", OsirisHub["11"]);
 local function C_5()
 local script = OsirisHub["5"];
 	local Bounce = true	 -- You Can Set This To False To Cancle The Background Animation[s].
-	local Speed = 250	  -- Customize The Animation Speed To Your Likings
+	local Speed = 25	  -- Customize The Animation Speed To Your Likings
 	local MaxWidth = 25	 -- Customize The Width To Your Likings
 	local val = 0
 	while wait() do
